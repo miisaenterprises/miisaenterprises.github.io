@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://miisaenterprises.github.io/sitemap.xml
